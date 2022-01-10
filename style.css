@@ -136,8 +136,9 @@ footer p { margin-bottom: 0.2rem; }
 .bg-lounge {
     background-image: url('/images/the-bunker-4.jpg');
 }
-.bg-lounge-2 {
-    background-image: url('/images/the-bunker-2.jpg');
+.bg-terras {
+    background-image: url('/images/van-broeck-terras.jpeg');
+    position: right;
 }
 .bg-sheets {
     background-image: url('/images/the-bunker-7.jpg');
